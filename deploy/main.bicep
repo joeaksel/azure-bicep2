@@ -1,4 +1,4 @@
-// updated 5/15/24
+// GitHub action test #2
 @description('Application suffix that will apply to all resources')
 param appSuffix string = uniqueString(resourceGroup().id)
 
