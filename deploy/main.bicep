@@ -1,4 +1,4 @@
-// GitHub action test #3
+// GitHub action test #4
 @description('Application suffix that will apply to all resources')
 param appSuffix string = uniqueString(resourceGroup().id)
 
