@@ -5,7 +5,7 @@
         "appInsightsName": {
             "value": "ai-healthtrackr-prod"
         },
-        "containerAppEnvName": {
+        "containerAppEnvironmentName": {
             "value": "env-healthtrackr-prod"
         },
         "logAnalyticsWorkspaceName": {
